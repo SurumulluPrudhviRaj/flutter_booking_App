@@ -1,0 +1,10 @@
+.dart_tool/chrome-device/Default/Affiliation Database
+.dart_tool/chrome-device/Default/Affiliation Database-journal
+.dart_tool/chrome-device/Default/shared_proto_db/LOCK
+# Temporary Files
+*.temp
+path/to/temporary/files/*
+
+# Specific Directories
+build/
+.dart_tool/
