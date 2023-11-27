@@ -32,3 +32,34 @@ Runner/GeneratedPluginRegistrant.*
 !default.mode2v3
 !default.pbxuser
 !default.perspectivev3
+
+# Flutter/Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.generated/
+build/
+**/*.log
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.code-workspace
+**/*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Miscellaneous
+.packages
+pubspec.lock  # Optional: some teams commit this file
+**/.pub-cache/
+**/flutter_export_environment.sh
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
